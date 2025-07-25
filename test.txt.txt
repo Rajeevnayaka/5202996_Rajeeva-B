@@ -2,4 +2,10 @@
 int main()
 {
 printf("hi i am using git");
+
+
+//first dev task1
+
+
+ddddd
 }
