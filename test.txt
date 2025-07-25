@@ -3,3 +3,4 @@ int main()
 {
 printf("hi i am using git");
 }
+//this is for dev first task code written
