@@ -1,0 +1,14 @@
+#include <stdio.h>
+int main()
+{
+printf("hi i am using git");
+
+
+//first dev task1
+
+
+ddddd
+}
+
+task 1 of dev brach and merging
+what is mean by diffg
