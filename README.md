@@ -10,3 +10,5 @@
 <img src="https://github.com/Rajeevnayaka/5202996_Rajeeva-B/blob/main/linux/linux3.JPG" alt="linux commend3">
 
 <img src="https://github.com/Rajeevnayaka/5202996_Rajeeva-B/blob/main/linux/linux4.JPG" alt="linux commend4">
+
+<img src="https://github.com/Rajeevnayaka/5202996_Rajeeva-B/blob/main/linux/linux5.JPG" alt="linux commend5">
