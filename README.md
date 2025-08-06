@@ -14,7 +14,7 @@
 <img src="https://github.com/Rajeevnayaka/5202996_Rajeeva-B/blob/main/linux/linux5.JPG" alt="linux commend5">
 
 <img 
-src="https://github.com/Rajeevnayaka/5202996_Rajeeva-B/blob/main/c%20programming/solo%20learn%20introduction%20to%20c.jpg"alt"solo learn introduction to c">
+src="https://github.com/Rajeevnayaka/5202996_Rajeeva-B/blob/main/c%20programming/solo%20learn%20introduction%20to%20c.jpg" alt"solo learn introduction to c">
 
 <img src="https://github.com/Rajeevnayaka/5202996_Rajeeva-B/blob/main/c%20programming/solo%20learn%20c%20intermediate.jpg" alt="solo learn c intermediate">
 
